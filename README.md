@@ -11,4 +11,8 @@ newwwwwww
 new changes....
 some more updates
 new changessss.......yoooooooo
+<<<<<<< HEAD
 more and more change
+=======
+newww changesss
+>>>>>>> simple-changes
