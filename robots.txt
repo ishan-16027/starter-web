@@ -1,4 +1,0 @@
-# robotstxt.org/
-
-User-agent: *
-changing more and more and more from master branch
